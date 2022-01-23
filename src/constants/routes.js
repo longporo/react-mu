@@ -1,0 +1,11 @@
+export const LANDING = '/';
+export const SIGN_UP = '/signup';
+export const SIGN_IN = '/signin';
+export const CLUB_DETAIL = '/club/detail';
+export const CLUB_ADD = '/club/add';
+export const CLUB_VIEW = '/club/view';
+export const ITEM_ADD = '/item/add';
+export const ITEM_VIEW = '/item/view';
+export const MY_ITEMS = '/my/items';
+export const ACCOUNT = '/account';
+export const PASSWORD_FORGET = '/pw-forget';
