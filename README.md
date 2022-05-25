@@ -1,5 +1,6 @@
 # Course Project from Maynooth University
-## The CS353 Group Project - Clubventory
+## CS353 Group Project
+### Clubventory
 In this course, we students form a group to develop an application to experience the SCRUM development process.
 
 There are different roles in the project, developer, testing, SCRUM master, UI designer, etc. I played the developer role.
